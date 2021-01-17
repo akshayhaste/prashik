@@ -1,0 +1,10 @@
+hii 
+this is 2nd file 
+this is going to central repository
+
+im doing changes from central repository
+hope it will update in remote server 
+
+now im writing something from terminal
+hope it will go into central repository
+
